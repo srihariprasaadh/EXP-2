@@ -1,3 +1,4 @@
+<img width="899" height="1599" alt="WhatsApp Image 2026-10-21 at 6 25 13 PM" src="https://github.com/user-attachments/assets/78fa8c0b-a664-4d58-babd-93f2c3b4daf1" />
 # EXP-2
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
@@ -47,17 +48,24 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Tabulation for Open Circuit Test
+Tabulation for Open Circuit Test<img width="899" height="1599" alt="WhatsApp Image 2026-10-21 at 6 21 21 PM" src="https://github.com/user-attachments/assets/e5438a25-45cc-47b5-a590-b9ceb179fb2f" />
 
-Tabulation for Load Test:
 
-Model graph:
-Calculation: 
+Tabulation for Load Test:<img width="899" height="1599" alt="WhatsApp Image 2026-10-21 at 6 25 13 PM" src="https://github.com/user-attachments/assets/7fb7b5e5-b2f1-4096-9a31-87723b8990e3" />
 
-Open circuit characteristics
 
+Model graph:<img width="899" height="1599" alt="WhatsApp Image 2026-10-21 at 6 28 35 PM" src="https://github.com/user-attachments/assets/50635c76-9529-405b-93db-04b042f039d2" />
+
+
+ Model graph:<img width="899" height="1599" alt="WhatsApp Image 2026-10-21 at 6 28 45 PM" src="https://github.com/user-attachments/assets/607858b3-e5da-4e89-b0f7-7ff3ff1e4603" />
+
+
+Open circuit characteristics<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/db8c32c8-b5b3-42fe-9842-9703e1132c26" />
+:<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/557cfe0d-b7bb-4de5-b308-c62d9718cc31" />
   
-Load Characteristics:
+Load Characteristics:<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/f73f5882-8e45-44d4-8678-bcd37ad271c2" />
+<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/cf855d72-a6a7-4257-81ad-e41d7b5a0607" />
+
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
