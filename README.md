@@ -64,11 +64,13 @@ Model graph:<img width="1006" height="827" alt="exp2 g1" src="https://github.com
 
 
 
-Open circuit characteristics<img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/db8c32c8-b5b3-42fe-9842-9703e1132c26" />
-:<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/557cfe0d-b7bb-4de5-b308-c62d9718cc31" />
+Open circuit characteristics:<img width="703" height="418" alt="Screenshot 2026-10-27 143908" src="https://github.com/user-attachments/assets/4d847f46-4f75-4359-9239-a3eaaf530bfb" />
+<img width="705" height="206" alt="Screenshot 2026-10-27 143928" src="https://github.com/user-attachments/assets/9d8d92a9-748a-4b46-a215-010c2c886426" />
+
   
-Load Characteristics:<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/f73f5882-8e45-44d4-8678-bcd37ad271c2" />
-<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/cf855d72-a6a7-4257-81ad-e41d7b5a0607" />
+Load Characteristics:<img width="919" height="417" alt="Screenshot 2026-10-27 143949" src="https://github.com/user-attachments/assets/275bdb08-02e0-43d0-b22f-df3acd75d757" />
+<img width="892" height="300" alt="Screenshot 2026-10-27 144004" src="https://github.com/user-attachments/assets/7c3b897f-6a13-4458-8a67-05f633342cf3" />
+
 
  
 Result:
